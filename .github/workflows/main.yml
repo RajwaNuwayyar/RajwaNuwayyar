@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+# Ini adalah kunci untuk mengatasi error 128
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,7 +17,9 @@ jobs:
           github_user_name: RajwaNuwayyar
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      
+      # Versi diperbarui ke v4 untuk mengatasi warning Node.js
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
