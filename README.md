@@ -5,16 +5,16 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc0aGN6MzZnNnQyM2k1cnhnM3Y5NnN3bXh0Z2c3aHV3c3J2NXJqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Funny Cat Typing GIF">
+  <img src="dose-dosecat.gif" width="150" alt="Dosecat Hiii GIF">
   
   <br>
-  <h3> <i>Still Learn...</i></h3>
+  <h3>🌱 <i>Still Learn...</i></h3>
   <br>
 </div>
 
 ---
 
 <div align="center">
-  <!-- GitHub Contribution (Snake) -->
+  <!-- Game GitHub Contribution (Snake) -->
   <img src="https://raw.githubusercontent.com/RajwaNuwayyar/RajwaNuwayyar/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
